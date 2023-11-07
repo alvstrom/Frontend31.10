@@ -20,3 +20,5 @@ hello();
 
 console.log (str1);
 
+alert("Alert");
+
